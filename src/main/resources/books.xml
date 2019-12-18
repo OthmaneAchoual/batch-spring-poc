@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<inventory>
+    <book>
+        <title>1984</title>
+        <year>1949</year>
+    </book>
+    <book>
+        <title>Brave new world</title>
+        <year>1932</year>
+    </book>
+    <book>
+        <title>Candide</title>
+        <year>1759</year>
+    </book>
+</inventory>
